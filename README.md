@@ -17,10 +17,6 @@ This is a simple burger product card created using only **HTML** and **Internal 
 - Internal CSS
 - Google Fonts
 
-## 🖼️ Screenshot
-
-![Burger Card Preview](./burger2.jpg)
-
 ## 📁 Project Status
 
 ✅ Completed — First basic UI component successfully built using only HTML and CSS.
